@@ -53,6 +53,7 @@ li{
     color: rgb(0, 0, 0);
     margin-bottom: 6px;
 }
-li::after{
-    content: "❌";
+
+.errorCheck{
+    display: none;
 }
